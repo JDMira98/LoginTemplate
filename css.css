@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(135deg, #b3cde0 50%, #6497b1 50%);
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  background-color: #f8f9fa;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1); /* Sombra abajo a la derecha */
+  height: 400px; /* Altura estándar para un formulario de inicio de sesión */
+  width: 300px; /* Ancho estándar para un formulario de inicio de sesión */
+}
